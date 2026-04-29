@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hans Inge Letnes
-- 👀 I’m interested in public transport and dedicated to international railway trasnport  
+- 👀 I work with Digital solutions for public transport and very interested in international railway trasnport  
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on developer.entur.org and https://github.com/UnionInternationalCheminsdeFer 
+- 💞️ I collaborate on developer.entur.org and https://github.com/UnionInternationalCheminsdeFer 
 - 📫 I can reached at hans.inge.letnes@entur.org
 
 <!---
