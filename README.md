@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hans Inge Letnes
-- 👀 I work with Digital solutions for public transport and very interested in international railway trasnport  
-- 🌱 I’m currently learning Python.
+- 👀 I work as an information architect at Digital Services, Entur AS
+- 🌱 I participates in CEN projects (BT4PT) and also work at UIC with spesifications for rail and Transmodel and NeTEx . 
 - 💞️ I collaborate on developer.entur.org and https://github.com/UnionInternationalCheminsdeFer 
 - 📫 I can reached at hans.inge.letnes@entur.org
 
